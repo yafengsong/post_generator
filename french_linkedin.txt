@@ -1,0 +1,107 @@
+Input: Générer un poste LinkedIn pour annoncer la Journée Mondiale de la Santé qui a lieu aujourd'hui
+
+Output: 🌍🩺 La Journée Mondiale de la Santé a lieu aujourd’hui !
+ 
+A cette occasion, nous remercions l’ensemble des équipes médico-soignantes pour leur engagement et nos patients pour leur confiance. Les Cliniques La Colline et Les Grangettes assurent une prise en charge personnalisée au quotidien et durant toutes les étapes de la vie.
+ 
+👉 Pour en savoir plus sur nos pôles de compétences : [LIEN]
+ 
+#HirslandenGeneve #jms #JourneeMondialeDeLaSanté #WorldHealthDay
+
+Input: Générer un poste LinkedIn pour annoncer le "Colloque Digestif – Docteur, j’ai mal à l’épigastre" qui aura lieu le jeudi 23 mai 2024 de 17h30 à 19h30, suivi d'un apéritif dînatoire à la salle de conférence HEdS, Avenue de la Roseraie 76A, 1205 Genève
+
+
+Output: Le Centre des Maladies Digestives et Hirslanden Clinique des Grangettes ont le plaisir de vous inviter au  « Colloque Digestif – Docteur, j’ai mal à l’épigastre ». 
+
+📅 Jeudi 23 mai 2024
+🕐 De 17h30 à 19h30, suivi d'un apéritif dînatoire
+📍 Salle de conférence HEdS, Avenue de la Roseraie 76A, 1205 Genève
+
+La douleur épigastrique fait partie des symptômes fréquents et quotidiens de la pratique de médecine de premier recours. Ses causes sont variées, allant des pathologies bénignes à des problèmes aigus mettant en péril la vie des patients. Quelles mesures et investigations immédiates sont adéquates ? Peut-on initier des traitements empiriques ? A l’aide de cas cliniques, des spécialistes de médecine interne, de radiologie, de gastro-entérologie et de chirurgie proposent des directives de prise en charge. 
+
+Informations et inscriptions :
+📧 [EMAIL]
+☎ [NUMERO DE TELEPHONE]
+Conférence en français, ouverte à tous gratuitement
+
+🔗 [LIEN] 
+
+Orateurs : [NOMS]
+
+#formationcontinue #colloque 
+
+Input: Générer un poste LinkedIn pour annoncer la formation "Plâtres et attelles de premier recours" organisé par le Centre ASSAL, en collaboration avec La Colline Centre de Chirurgie de la Main et du Poignet et avec le soutien de Hirslanden Genève qui aura lieu le samedi 12 octobre 2024 de 8h30 - 16h30 à la Clinique la Colline, Av. de Beau-Séjour 6, 1206 Genève.
+
+Output: 📚 Nous avons le plaisir de partager avec vous le Save the date de la prochaine formation ''Plâtres et attelles de premier recours'', qui aura lieu le samedi 12 octobre 2024.
+
+Depuis plus de 10 ans, nous organisons cette formation qui s'adresse aux thérapeutes souhaitant apprendre à réaliser des plâtres et attelles des membres inférieur et supérieur, adaptées à toute situation, dans le cadre d'urgences ou de suites de traitement.
+
+Notre équipe de médecins et d'infirmiers vous enseignera la réalisation de contentions en résine légères et sécuritaires, au travers d'ateliers pratiques. 💡
+
+Informations utiles:
+🗓 Samedi 12 octobre 2024
+🕑 8h30 - 16h30
+🏨 Clinique la Colline, Av. de Beau-Séjour 6, 1206 Genève
+🏅 Crédits délivrés par: [NOM]
+👩⚕️ S'adresse à :[NOMS]
+
+Inscription 👉 [LIEN]
+Nombre de places limité à [CHIFFRE]!
+
+Ces deux événements sont organisés par le Centre ASSAL, en collaboration avec La Colline Centre de Chirurgie de la Main et du Poignet et avec le soutien de Hirslanden Genève.
+
+Pour toute question, vous pouvez nous contacter:
+📧 [EMAIL]
+📞 [NUMERO DE TELEPHONE]
+
+#formation #plâtres #attelles #soins #infirmiers
+
+Input: Générer un poste LinkedIn pour raconter la journée mondiale des diététicien-ne-s
+Evenements : ateliers, échanges professionels
+
+Output: 📷 Retour en images sur la Journée mondiale des diététicien·ne·s
+
+À cette occasion, notre équipe de nutrition et diététique a mis en place différents ateliers offrant à nos collaborateurs et patients l'opportunité de mieux comprendre le métier de diététicien, d'acquérir des connaissances sur la notion de balance énergétique et de prendre conscience des piliers d'un repas équilibré. Cette journée a également été l'occasion d'échanger entre professionnels de la santé et de faire quelques dégustations surprenantes ! 
+
+Un grand merci à [NOMS] pour leur engagement et pour la passion avec laquelle ils nous ont transmis des connaissances essentielles au bien-être des patients.
+
+Pour en savoir plus sur le travail effectué par nos diététiciens :
+👉 Clinique des Grangettes :  [LIEN]
+👉 Clinique La Colline : [LIEN]
+
+#diététique #nutrition
+
+Input: Générer un poste LinkedIn pour annoncer la journée mondiale des diététicien-ne-s
+Output: Bien manger pour bien guérir 
+
+A l'occasion de la Journée Internationale des Diététiciens, nous tenons à mettre en lumière le rôle essentiel joué par l’équipe de nutrition et diététique de la Cliniques des Grangettes et de la Clinique La Colline dans le processus de guérison de nos patients.
+
+Nos diététiciens [NOMS], prennent en charge tous les patients nécessitant un suivi diététique que ce soit en milieu hospitalier ou en ambulatoire, et travaillent en étroite collaboration avec les équipes médico-soignantes.
+
+Pour en savoir plus sur le travail effectué par nos diététiciens :
+👉 Clinique des Grangettes :[LIEN]
+👉 Clinique La Colline : [LIEN]
+
+#diététique #nutrition
+
+Input: Générer un poste LinkedIn pour raconter le symposium "Urgences en médecine et traumatologie du sportif"
+Output: Retour en images sur le symposium "Urgences en médecine et traumatologie du sportif"
+
+Au cours de cet événement captivant, des sujets importants tels que l'arrêt cardiaque, la commotion cérébrale et les lésions fréquentes chez les sportifs ont été abordés.
+
+Un immense merci aux orateurs, qui ont partagé leur expertise avec passion : [NOMS]
+
+Merci également aux nombreux participants qui ont contribué à faire de cet événement un succès.
+
+#formationcontinue #colloque #orthopédie #cardiologie #médecinedusport #physiothérapie
+
+Input: Générer un poste LinkedIn pour raconter le Colloque d’Ophtalmologie 2024
+Output: 📷 Retour en images sur le Colloque d’Ophtalmologie 2024, une édition couronnée de succès ✨
+
+Colloque orchestré par [NOMS].
+
+Félicitations aux intervenants d’exceptions [NOMS], qui ont su rendre cette rencontre dynamique et interactive. 
+
+Un grand merci aux nombreux participants et aux sponsors pour leur précieux soutien. Au plaisir de vous retrouver lors du prochain colloque d’ophtalmologie. 
+
+#ophtalmologie #colloque
