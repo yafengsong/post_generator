@@ -79,37 +79,37 @@ def generate(input, words, temperature, language_dropdown, content_type_dropdown
     basic_prompt_fr = f"Veuillez créer un message pour les médias sociaux en vous basant sur les informations fournies : {input}. Le message doit comporter environ {words} mots. Voir les exemples suivants : \n"
 
     if language_dropdown == "French" and content_type_dropdown == "LinkedIn":
-        with open("linkedin_fr.txt", "r") as file:
+        with open("prompts/linkedin_fr.txt", "r") as file:
             contents = file.read()
             prompt_input = (basic_prompt_fr + contents + "\n Poster en français: ")
             generated_response = model_inference.generate_text(prompt=prompt_input, guardrails=True)
     elif language_dropdown == "English" and content_type_dropdown == "LinkedIn":
-        with open("linkedin_en.txt", "r") as file:
+        with open("prompts/linkedin_en.txt", "r") as file:
             contents = file.read()
             prompt_input = (basic_prompt_en + contents + "\n Post in English: ")
             generated_response = model_inference.generate_text(prompt=prompt_input, guardrails=True)
     elif language_dropdown == "German" and content_type_dropdown == "LinkedIn":
-        with open("linkedin_de.txt", "r") as file:
+        with open("prompts/linkedin_de.txt", "r") as file:
             contents = file.read()
             prompt_input = (basic_prompt_de + contents + "\n Post auf Deutsch: ")
             generated_response = model_inference.generate_text(prompt=prompt_input, guardrails=True)
     elif language_dropdown == "French" and content_type_dropdown == "Events":
-        with open("events_fr.txt", "r") as file:
+        with open("prompts/events_fr.txt", "r") as file:
             contents = file.read()
             prompt_input = (basic_prompt_fr + contents + "\n Poster en français: ")
             generated_response = model_inference.generate_text(prompt=prompt_input, guardrails=True)
     elif language_dropdown == "English" and content_type_dropdown == "Events":
-        with open("events_en.txt", "r") as file:
+        with open("prompts/events_en.txt", "r") as file:
             contents = file.read()
             prompt_input = (basic_prompt_en + contents + "\n Post in English: ")
             generated_response = model_inference.generate_text(prompt=prompt_input, guardrails=True)
     elif language_dropdown == "German" and content_type_dropdown == "Events":
-        with open("events_de.txt", "r") as file:
+        with open("prompts/events_de.txt", "r") as file:
             contents = file.read()
             prompt_input = (basic_prompt_de + contents + "\n Post auf Deutsch: ")
             generated_response = model_inference.generate_text(prompt=prompt_input, guardrails=True)
     elif language_dropdown == "German" and content_type_dropdown == "BeeKeeper":
-        with open("beekeeper_de.txt", "r") as file:
+        with open("prompts/beekeeper_de.txt", "r") as file:
             contents = file.read()
             prompt_input = (basic_prompt_de + contents + "\n Post auf Deutsch: ")
             generated_response = model_inference.generate_text(prompt=prompt_input, guardrails=True)
