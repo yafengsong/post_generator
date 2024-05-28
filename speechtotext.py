@@ -84,10 +84,18 @@ except Exception as e:
     print(f"Connection failed: {e}")
     
 # Capture audio and save it as 'audio.wav'
-record_audio("audio.wav")
+filename = "audio.wav"
+record_audio(filename)
 
 # Convert speech to text for different languages
 languages = ["english", "french", "german"]
 for language in languages:
     user_input = convert_speech_to_text("audio.wav", language)
     print(f"You said in {language}:", user_input)
+
+# Delete the audio file after processing
+if os.path.exists(filename):
+    os.remove(filename)
+    print(f"{filename} has been deleted.")
+else:
+    print(f"{filename} does not exist.")
